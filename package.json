@@ -1,0 +1,17 @@
+{
+  "name": "unlog.chocmixin",
+  "version": "0.0.1",
+  "description": "Remove console.log(s) from JS and Coffeescript",
+  "keywords": [
+    "console",
+    "log",
+    "console.log"
+  ]
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Franz Heidl",
+  "license": "MIT",
+}
