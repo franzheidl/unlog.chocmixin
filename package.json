@@ -1,6 +1,6 @@
 {
   "name": "unlog.chocmixin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Remove console.log(s) from JS and Coffeescript",
   "keywords": [
     "console",
