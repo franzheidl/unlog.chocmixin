@@ -10,7 +10,7 @@
   "main": "init.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/franzheidl/unlog.chocmixin"
   },
   "author": "Franz Heidl",
   "license": "MIT",
